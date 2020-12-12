@@ -1,0 +1,4 @@
+com/amazon/textract/pdf/FontInfo.class
+com/amazon/textract/pdf/ImageType.class
+com/amazon/textract/pdf/PDFDocument.class
+com/amazon/textract/pdf/TextLine.class
